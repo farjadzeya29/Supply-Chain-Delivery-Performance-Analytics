@@ -1,0 +1,7 @@
+{
+  "name": "Supply Chain & Delivery Performance Analytics",
+  "description": "Enterprise analytics platform tracking on-time delivery rates, delays, supplier and warehouse KPIs, shipping costs by region, interactive SQL workbench, Excel pivot modeling, and Power BI dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
